@@ -115,6 +115,10 @@ nav i {
   height: 100%;
 }
 
+main {
+  padding-bottom: 1em;
+}
+
 article p {
   margin: 0;
   text-indent: 1.3em;
@@ -150,6 +154,13 @@ article footer {
   background-image: none;
   border-radius: 6px 6px 0 0;
   color: #fff;
+}
+
+article > footer > nav{
+  display: flex;
+  justify-content: center;
+  background-color: #259f95;
+  padding: 1em;
 }
 
 footer small{
