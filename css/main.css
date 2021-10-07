@@ -5,6 +5,7 @@ html {
   color: #222;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-style: normal;
 }
 
 *,
@@ -151,7 +152,7 @@ article footer {
   color: #fff;
 }
 
-footer {
+footer small{
   display: flex;
   justify-content: center;
   padding: 1rem;
