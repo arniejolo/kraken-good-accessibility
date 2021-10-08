@@ -165,7 +165,7 @@ article > footer > nav {
   padding: 1em;
 }
 
-footer small{
+footer small {
   display: flex;
   justify-content: center;
   padding: 1rem;
